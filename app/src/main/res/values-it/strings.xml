@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SEMANA6PM</string>
+    <string name="main_hint">NUEVO VALOR DE PREF (IT)</string>
+    <string name="main_guardar">GUARDAR (IT)</string>
+    <string name="main_borrar">BORRAR PREFS (IT)</string>
+    <string name="main_borrar_todo">BORRAR TODAS LAS PREFS (IT)</string>
+    <string name="main_mostrar">MOSTRAR PREFS (IT)</string>
+    <string name="main_toast">HOLA EN ITALIANO</string>
+</resources>

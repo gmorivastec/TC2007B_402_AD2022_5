@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SEMANA6PM</string>
+    <string name="main_hint">PREFS NEW VALUE</string>
+    <string name="main_guardar">SAVE</string>
+    <string name="main_borrar">DELETE PREF</string>
+    <string name="main_borrar_todo">DELETE ALL PREFS</string>
+    <string name="main_mostrar">DISPLAY PREFS</string>
+    <string name="main_toast">HI FROM A VARIABLE</string>
+</resources>
