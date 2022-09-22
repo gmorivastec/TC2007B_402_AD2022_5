@@ -1,6 +1,7 @@
 package mx.itesm.semana6pm
 
 import android.content.Context
+import android.content.Intent
 import android.content.SharedPreferences
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
@@ -105,5 +106,10 @@ class MainActivity : AppCompatActivity() {
             sharedPrefs.getString(PREFS_CIUDAD, "no hay ciudad todavía"),
             Toast.LENGTH_SHORT
         ).show()
+    }
+
+    fun cambiarAPhoto(v : View){
+        val intent = Intent(this, PhotoActivity::class.java)
+        startActivity(intent)
     }
 }
